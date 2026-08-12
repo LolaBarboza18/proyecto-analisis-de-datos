@@ -5,7 +5,8 @@ Impacto de la Mitología y la Historia China en el Entretenimiento Occidental, a
 Se busca profundizar y analizar cómo las costumbres, tradiciones, religiones y cultura general China es interpretada y recibida en entretenimiento occidental creado para públicos occidentales. A su vez, se busca aprender mediante este propósito un stack de tecnologías y herramientas necesarias para formar un perfil de Analista de Datos competente. Este proyecto es totalmente personal, y será utilizado como material de aprendizaje autodidacta. Se eligió esta temática de proyecto ya que se vincula directamente con mi interés por la cultura china, y mi afición por el entretenimiento audiovisual. 
 
 ## Stack de Tecnologías
-- Análisis de Datos: Pandas, Excel, SQL. 
+- Análisis de Datos: Python, Pandas, Excel, PostgreSQL (Supabase)
+- ORM / Conectividad: SQLAlchemy, Psycopg2
 - Visualización: Plotly, Matplotlib, Seaborn.
 - Dashboards: Power BI, Tableau.
 - Entorno de Trabajo (IDE): VS Code, Jupyter Notebook.
